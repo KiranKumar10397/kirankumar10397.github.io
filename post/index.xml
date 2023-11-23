@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kiran Kumar Thutukuru Babu</title>
+    <link>https://kirankumar10397.github.io/post/</link>
+    <description>Recent content in Projects on Kiran Kumar Thutukuru Babu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kirankumar10397.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Engineering - Uber Data Analytics</title>
+      <link>https://kirankumar10397.github.io/post/data-engineering-uber-data-pipeline/</link>
+      <pubDate>Mon, 11 Sep 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://kirankumar10397.github.io/post/data-engineering-uber-data-pipeline/</guid>
+      <description>Performed data modeling using PowerBI and Lucid chart, identifying Fact and Dimension tables for analysis. Utilized Python pandas for data transformation, and preprocessing, and uploaded the dataset to Google Cloud Storage. Created a GCP compute engine, executed network operations to load data pipeline tools, and installed ETL packages. Built an ETL data pipeline on a Mage compute instance with Python that loads data into Bigquery after extracting data from cloud storage and transforming it.</description>
+    </item>
+    
+    <item>
+      <title>Project management</title>
+      <link>https://kirankumar10397.github.io/post/project-management/</link>
+      <pubDate>Wed, 21 Dec 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://kirankumar10397.github.io/post/project-management/</guid>
+      <description>Project Philosophy followed - Agile Project methodology - Scrum Tool - Jira software manager (Webapp)
+This demonstration is all about planning your project, analyzing, managing the deliverables by Agile-Scrum methodology using the Jira software management tool. To carry out the SDLC planning, a dummy project has been chosen to deliver a dynamic website for the University of Invincibles with all their web student applications. The deliverables are planned by creating a Project charter with all the necessary details and NDA.</description>
+    </item>
+    
+    <item>
+      <title>Customer Segmentation - Sales data</title>
+      <link>https://kirankumar10397.github.io/post/sales-customer-segmentation-rfm/</link>
+      <pubDate>Sun, 16 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://kirankumar10397.github.io/post/sales-customer-segmentation-rfm/</guid>
+      <description>Customer segmentation is the process of dividing your clientele into categories according to demographic, psychographic, and other factors. There are other advantages to client segmentation in addition to marketing objectives. The ultimate goal of this project is to segment the customer into different categories based on their Recency, Frequency and Monetary values. Customers are ranked based on their RFM metrics to know what position they stand which gives out an idea for concentrating on the low ranked customers.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment analysis using NLP</title>
+      <link>https://kirankumar10397.github.io/post/sentiment-analysis/</link>
+      <pubDate>Tue, 27 Sep 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://kirankumar10397.github.io/post/sentiment-analysis/</guid>
+      <description>Project focuses on performing sentiment analysis of Restaurant reviews using the bag of words technique by carrying out the pre requisite steps of removing the non-essential words using stop words as part of data pre processing. The split words of reviews after processing stop words are then used to build the bag of words model technique to analyze text and documents based on word count. Restricted the words to 1500 which keeps the most frequent words from the reviews.</description>
+    </item>
+    
+    <item>
+      <title>Credit card customer segmentation</title>
+      <link>https://kirankumar10397.github.io/post/credit-card-customer-segmentation/</link>
+      <pubDate>Mon, 12 Sep 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://kirankumar10397.github.io/post/credit-card-customer-segmentation/</guid>
+      <description>The goal and driving force behind this project are to apply a few customers segmentation approaches to find the most devoted customers among the 16K credit card users, segment them, and then campaign them with additional offers based on their ranking. Banks can offer more specialized products and services by using customer segmentation solutions to group consumers based on behavior Missing values have been replaced with mean of that particular feature and outliers are not removed since they seemed like they are potential outliers from the dataset.</description>
+    </item>
+    
+    <item>
+      <title>Churn Analysis</title>
+      <link>https://kirankumar10397.github.io/post/churn-analysis/</link>
+      <pubDate>Sat, 13 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kirankumar10397.github.io/post/churn-analysis/</guid>
+      <description>Churn Prediction helps in analyzing which customers are most likely to leave a service or to cancel the subscription of a service or company. The main aim of the project is used to perform a churn analysis on the telecom dataset That way the company knows which customers are more likely to leave and will try to retain them. EDA of the data is performed and a clean dataset is achieved at the end of EDA which is used to perform modelling.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization- Tableau</title>
+      <link>https://kirankumar10397.github.io/post/data-visualization-tableau/</link>
+      <pubDate>Thu, 23 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kirankumar10397.github.io/post/data-visualization-tableau/</guid>
+      <description>Data Visualization tool used - Tableau
+Queensland is a state situated in northeastern Australia and is the second largest and third-most populous Australian state. Vehicle crash contributes to a significant number of deaths and injuries in this area and the objective of this project is to analyze the number of road crashes that occur in the state of Queensland every year. This study aims to promote and elaborate more on data visualization techniques using the interactive graphs and data dashboard to display vehicle crash data.</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis</title>
+      <link>https://kirankumar10397.github.io/post/eda-it-survey/</link>
+      <pubDate>Wed, 23 Mar 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://kirankumar10397.github.io/post/eda-it-survey/</guid>
+      <description>The aim of this project is to perform EDA and data pre-processing of IT salary survey dataset from the kaggle. The motivation behind this project is to found out the underlying pattern of salary with the data we have from 3 consecutive years from the IT industry. Few of the questions were answered with the help of visualization performed through Microsoft Excel using correlation, pie chart, line chart and bar graphs etc.</description>
+    </item>
+    
+  </channel>
+</rss>
